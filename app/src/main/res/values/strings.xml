@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Articly</string>
+    <string name="there_is_no_articles">There\'s no articles</string>
 </resources>
