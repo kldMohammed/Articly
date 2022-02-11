@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Articly"
         >
         <activity
-            android:name=".MainActivity"
+            android:name=".features.articles.ui.list.MainActivity"
             android:exported="true"
             >
             <intent-filter>
