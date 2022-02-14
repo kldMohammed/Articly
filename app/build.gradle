@@ -38,7 +38,7 @@ android {
 }
 ext {
     coroutinesVersion = '1.5.2-native-mt'
-    lifecycleVersion = '2.4.0'
+    lifecycleVersion = '2.4.1'
     retrofitVersion = "2.9.0"
     okhttpVersion = '5.0.0-alpha.2'
     koin_version = "3.1.4"
